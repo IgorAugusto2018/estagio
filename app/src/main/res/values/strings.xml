@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">My fist App</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Settings</string>label_segunda
     <string name="label_principal">Hello people</string>
+    <string name="label_segunda">Secondary Activity</string>
     <string name="btn_Principal">Iniciar Aplicação</string>
 </resources>
